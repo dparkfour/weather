@@ -136,16 +136,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Open-Meteo for providing free weather and geocoding APIs
 - Java Swing community for GUI development resources
-- Contributors and testers who helped improve the application
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- Open an issue on GitHub
-- Check the troubleshooting section above
-- Ensure you have the latest version of the code
-
----
 
 **Happy Weather Watching! 🌤️**
